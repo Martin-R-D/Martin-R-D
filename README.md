@@ -17,7 +17,7 @@
 
 🛠️ Interested in **full stack development**.
 
-🧠 Exploring **AI** and how it works and how it can make software more useful.
+🧠 Exploring **AI**, how it works, and how it can make software more useful.
 
 ### Contributions🐍
 

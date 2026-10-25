@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Hey, I'm Martin 👋 — Full Stack Development and Artificial Intelligence" />
+  <img src="assets/header.svg?v=3" width="100%" alt="Hey, I'm Martin 👋 — Full Stack Development and Artificial Intelligence" />
 </p>
 
 <br />

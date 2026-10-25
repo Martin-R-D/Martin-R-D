@@ -1,28 +1,27 @@
-<div align="center">
-
-# Hey, I'm Martin 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=500&lines=Full+Stack+Development;Artificial+Intelligence;Turning+ideas+into+working+software" alt="Interests: Full Stack Development and Artificial Intelligence" />
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Hey, I'm Martin 👋 — Full Stack Development and Artificial Intelligence" />
+</p>
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-r-d)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/logicER/)
-
-</div>
-
----
-
-### A little about me
+<p align="center">
+  <img src="assets/full-stack.svg" width="49%" alt="Full stack development" />
+  <img src="assets/ai.svg" width="49%" alt="Artificial intelligence" />
+</p>
 
 🛠️ Interested in **full stack development**.
 
 🧠 Exploring **AI**, how it works, and how it can make software more useful.
 
-### Contributions🐍
+<br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Martin-R-D/Martin-R-D/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Martin-R-D/Martin-R-D/output/github-snake.svg" />
-  <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/Martin-R-D/Martin-R-D/output/github-snake.svg" width="100%" />
-</picture>
+<img src="assets/activity.svg" width="100%" alt="Weekly GitHub contribution timeline over the past year" />
+
+<br />
+<br />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/martin-r-d"><img src="https://img.shields.io/badge/LinkedIn-151D2E?style=for-the-badge&amp;logo=linkedin&amp;logoColor=B49AFF" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://leetcode.com/u/logicER/"><img src="https://img.shields.io/badge/LeetCode-151D2E?style=for-the-badge&amp;logo=leetcode&amp;logoColor=74DEDF" alt="LeetCode" /></a>
+</p>
